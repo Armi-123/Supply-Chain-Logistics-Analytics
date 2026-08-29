@@ -1,0 +1,60 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==============================
+# Virtual Environment
+# ==============================
+venv/
+env/
+.venv/
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+
+# ==============================
+# IDE / Editor
+# ==============================
+.vscode/
+.idea/
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Python Tools / Cache
+# ==============================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==============================
+# Streamlit
+# ==============================
+.streamlit/secrets.toml
+
+# ==============================
+# Temporary Files
+# ==============================
+*.tmp
+*.temp
+*.log
+
+# Large dataset files
+data/raw/DataCoSupplyChainDataset.csv
+data/processed/supply_chain_cleaned.csv
