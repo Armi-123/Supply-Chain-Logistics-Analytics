@@ -5,10 +5,7 @@ seaborn
 plotly
 streamlit
 
-
-
 # streamlit run dashboard/app.py
-
 
 # So on GitHub:
 
@@ -16,7 +13,6 @@ streamlit
 # Description: End-to-end Supply Chain & Logistics Analytics project featuring data 
 # preprocessing, business insights, interactive Streamlit dashboards, profitability analysis, 
 # logistics performance, regional analysis, and downloadable reports.
-
 
 # echo "# Supply-Chain-Logistics-Analytics" >> README.md
 # git init
