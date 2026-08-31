@@ -1,0 +1,31 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+
+
+
+# streamlit run dashboard/app.py
+
+
+# So on GitHub:
+
+# Repository: Supply-Chain-Logistics-Analytics
+# Description: End-to-end Supply Chain & Logistics Analytics project featuring data 
+# preprocessing, business insights, interactive Streamlit dashboards, profitability analysis, 
+# logistics performance, regional analysis, and downloadable reports.
+
+
+# echo "# Supply-Chain-Logistics-Analytics" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/Armi-123/Supply-Chain-Logistics-Analytics.git
+# git push -u origin main
+
+# git remote add origin https://github.com/Armi-123/Supply-Chain-Logistics-Analytics.git
+# git branch -M main
+# git push -u origin main
