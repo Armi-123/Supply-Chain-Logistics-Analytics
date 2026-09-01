@@ -571,7 +571,6 @@ Supply Chain Analytics
 Data Visualization
 Interactive Dashboard
 ```
-
 ---
 
 ## 🏁 Conclusion
